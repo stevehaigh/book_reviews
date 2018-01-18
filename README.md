@@ -1,5 +1,4 @@
 # Book Reviews
-Mainly reviews of technical books. May contain reviews of other things. May contain opinions.
 
 Reviews to do, in no order and with no guarentee of delivery at any point:
 
