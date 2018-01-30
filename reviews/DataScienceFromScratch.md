@@ -10,7 +10,7 @@ Pages: 330
 
 
 ## Overview ##
-A code-first exploration of data science, mainly machine learning, topics. This does *not* cover using popular tools such as SciKit-Learn (but Gruss does reference them a lot), and it's not an introduction to Machine Learning in the academic sense. 
+A code-first exploration of data science, mainly machine learning, topics. This does *not* cover using popular tools such as SciKit-Learn (but Grus does reference them a lot), and it's not an introduction to Machine Learning in the academic sense. 
 
 ## Audience ##
 Software developers with some basic Python who want to learn *how* machine learnign algorithms work. You need some Python skills, and some prior understanding of machine learning algorthims would be very useful.
@@ -18,6 +18,8 @@ Software developers with some basic Python who want to learn *how* machine learn
 If you've done a MOOC such as Andrew Ng Coursera course course this book wold be an ideal handbook to help you implement ideas in Python.
 
 ## Main Review ##
+
+to do :)
 
 ## Pros ##
 Lots of great code samples. IMHO the code is nice, it's *very* terse, but it's a style I like.
