@@ -1,5 +1,7 @@
 # Book Reviews
 
+[Data Science from Scratch](./reviews/DataScienceFromScratch.md) by Grus *(O'Reilly)*
+
 Reviews to do, in no order and with no guarentee of delivery at any point:
 
 * _Hands‑On Machine Learning with Scikit‑Learn and TensorFlow_ by Aurélien Géron (O'Reilly)
